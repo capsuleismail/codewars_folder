@@ -1,4 +1,4 @@
-######## CODEWARS CHALLENGES[https://www.codewars.com/dashboard].
+###### [CODEWARS CHALLENGES] (https://www.codewars.com/dashboard).
 
 ###### Solutions for codewars problems
 
